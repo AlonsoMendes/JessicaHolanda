@@ -9,6 +9,6 @@
 - 💻 https://www.linkedin.com/in/jessica-holanda-268453157/
  
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=170&section=footer)
 
 
