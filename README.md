@@ -1,4 +1,4 @@
-![header](https://Meganekko.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Meganekko&fontSize=90)
 
 - 👩‍🎓 Sou formada em ADS pela Fatec São Caetano.
 - 👩‍💻 Pronta para participar de novos projetos e aprender ainda mais sobre o mundo do desenvolvimento.
