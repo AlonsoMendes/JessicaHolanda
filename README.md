@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Meganekko&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Meganekko&fontSize=70)
 
 - 👩‍🎓 Sou formada em ADS pela Fatec São Caetano.
 - 👩‍💻 Pronta para participar de novos projetos e aprender ainda mais sobre o mundo do desenvolvimento.
@@ -10,6 +10,6 @@
  
 **This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=170&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 
