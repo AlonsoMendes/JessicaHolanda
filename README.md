@@ -9,17 +9,9 @@
 - 💻 https://www.linkedin.com/in/jessica-holanda-268453157/
  
  
- 
- 
- <p align="left">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" width="20" height="20" class="icon-cog"/>
- </p>
- 
-**This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
+this Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 
-.icon-cog {
-  color: red;
-}
+
