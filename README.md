@@ -38,8 +38,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </details>
  
-
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
+-->
 
 
