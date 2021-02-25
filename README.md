@@ -7,6 +7,7 @@
 - 📚 &nbsp; Studying: Java, Spring Boot e Angular. 
 - 💜 &nbsp; I am also into NodeJS, React e Typescript.
 - 📫 &nbsp; How to reach me: 
+[![Gmail](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](mailto:jessica.holanda33@gmail.com?)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
