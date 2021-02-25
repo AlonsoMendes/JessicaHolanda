@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hey%20💜,%20I'm%20Jessica&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hey%20💜,%20I'm%20Jessica&fontSize=20)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
