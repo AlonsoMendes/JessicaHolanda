@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hey 💜, I'm [Jessica!](https://github.com/JessicaHolanda)&fontSize=90)
 
-## Hey 💜, I'm [Jessica!](https://github.com/JessicaHolanda)
+Hey 💜, I'm [Jessica!](https://github.com/JessicaHolanda)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
