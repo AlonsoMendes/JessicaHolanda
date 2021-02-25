@@ -6,7 +6,7 @@
 - 🚀 &nbsp; I’m currently learning Full Stack Development at [Generation Brasil](https://brazil.generation.org/)'s bootcamp.
 - 📚 &nbsp; Studying: Java, Spring Boot e Angular. 
 - 💜 &nbsp; I am also into NodeJS, React e Typescript.
-- 📫 &nbsp; How to reach me: 
+- 📫 &nbsp; How to reach me:%20
 [![Gmail](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](mailto:jessica.holanda33@gmail.com?)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
