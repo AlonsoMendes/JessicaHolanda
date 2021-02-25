@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
-
+#
 
 ### 🚀 Languages and Tools:</summary>
 
@@ -31,9 +31,10 @@
 </p>
 <br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaHolanda&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaHolanda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div>	
  
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
