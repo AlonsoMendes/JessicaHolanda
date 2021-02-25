@@ -6,7 +6,10 @@
 - 🚀 &nbsp; I’m currently learning Full Stack Development at [Generation Brasil](https://brazil.generation.org/)'s bootcamp.
 - 📚 &nbsp; Studying: Java, Spring Boot e Angular. 
 - 💜 &nbsp; I am also into NodeJS, React e Typescript.
-- 📫 &nbsp; How to reach me: jessica.holanda33@gmail.com.
+- 📫 &nbsp; How to reach me: jessica.holanda33@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
 
 
 <details>	
@@ -33,9 +36,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </details>
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
