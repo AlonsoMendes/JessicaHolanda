@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header)
+-->
 ### Hey 💜, I'm [Jessica!](https://github.com/JessicaHolanda)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
@@ -14,9 +14,8 @@
 
 #
 
-<details>	
-<br />
-<summary> 🚀 Languages and Tools:</summary>
+
+#### 🚀 Languages and Tools:</summary>
 
 <p align="left">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
@@ -37,7 +36,7 @@
 <br />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-</details>
+
  
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
