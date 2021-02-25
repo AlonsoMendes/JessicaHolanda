@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Meganekko&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header)
 
 ## Hey 💜, I'm [Jessica!](https://github.com/JessicaHolanda)
 
@@ -40,8 +40,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </details>
  
- 
-this Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
