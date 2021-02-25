@@ -12,6 +12,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
 #
 <br />
+
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
@@ -29,7 +30,9 @@
 <img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" />
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
 </p>
+
 #
+
 <br />
 
 ### ⚡ Github Stats</b></summary>
