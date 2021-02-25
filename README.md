@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hey%20🖤&fontSize=40)
-<p align="right">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
-</p>
 
-#
+
 - 🎓 &nbsp; I have a degree in System Analysis and Development at [Fatec São Caetano](https://www.fatecsaocaetano.edu.br/) 
 - 💻 &nbsp; Starting my career as a developer.
 - 🚀 &nbsp; I’m currently learning Full Stack Development at [Generation Brasil](https://brazil.generation.org/)'s bootcamp.
@@ -14,7 +9,9 @@
 - 📫 &nbsp; How to reach me: jessica.holanda33@gmail.com.
 
 
-#### 🚀 Languages and Tools:</summary>
+<details>	
+<br />
+<summary> 🚀 Languages and Tools:</summary>
 
 <p align="left">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
@@ -31,14 +28,14 @@
 <img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" />
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
 </p>
-
 <br />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaHolanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-
+</details>
  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-holanda33/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
-
 
