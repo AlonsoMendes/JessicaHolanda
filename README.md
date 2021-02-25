@@ -11,7 +11,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meganekko666)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12184946817?si=271d093026464aa0)
 #
-<br />
 
 ### 🚀 Languages and Tools:</summary>
 
@@ -33,7 +32,6 @@
 
 #
 
-<br />
 
 ### ⚡ Github Stats</b></summary>
 <div align="left">
